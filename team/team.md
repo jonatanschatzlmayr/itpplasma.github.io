@@ -33,3 +33,9 @@ PhD student
 `WPTE | TSVV6+Kineq | W7-X`
 
 I'm a PhD student and fellow of the Freidrich Schiedel Foundation of Energy Technology working in the area of Plasma Response to Magnetic Pertubations. Apart from my research, I enjoy listening to and making music. 
+
+### Jonatan Schatzlmayr
+PhD student
+
+I am a PhD student funded by the KKKÖ (Kommission dür die Koordination der Kernfusionsforschung in ÖSterreich). My work deals with the kinetic modelling of ions in fusion devices with realistic collision operators. In my free time, I like to play the piano, do sports and engage in religious activities.
+
